@@ -1,0 +1,16 @@
+if (!Pause)
+                        {
+                            printf("NON,%d",r);
+                            Pause == true;
+                            float X = 0, Y =0;
+                            int LongueurMessage = AffichageMot(0,"PAUSE",X,Y,80,r,v,b,5,rendu);
+                            X = (LARGEUR_ECRAN - LongueurMessage)/2, Y = (HAUTEUR - 80)/2;
+                            AffichageMot(1,"PAUSE",X,Y,80,r,v,b,5,rendu);
+                            dxPrime = dx, dyPrime = dy ,dx = 0, dy = 0;
+                        }
+                        else if(Pause)
+                        {
+                            printf("OUi");
+                            Pause == false;
+                            dx = dxPrime, dy = dyPrime;
+                        }
