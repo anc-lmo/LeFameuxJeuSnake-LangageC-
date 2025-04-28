@@ -13,5 +13,4 @@ Uniquement avec SDL (et en langage C) !
 🔍 Et surtout, repérez les insuffisances !
 💡 Vous pouvez nous les notifier sur :
 
-📸 Instagram : https://www.instagram.com/anc_lmo
 💼 LinkedIn : https://www.linkedin.com/in/ancelmo-baptiste-a-lopez-quenum-22b152316
